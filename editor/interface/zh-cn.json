@@ -649,9 +649,34 @@
     "gui.extension.linkBot.name":"Link:Bot",
     "gui.extension.linkBot.description":"通过运动、传感器和动作，让你的 Link:Bot 活起来.",
     "gui.extension.k210.name":"视觉模块",
-    "gui.extension.k210.description":"使用 AI 视觉识别颜色、线条、AprilTag、二维码、人脸、物体."
+    "gui.extension.k210.description":"使用 AI 视觉识别颜色、线条、AprilTag、二维码、人脸、物体.",
+    
+    "python.install.Recommended":"推荐",
+    "python.install.Installed":"已安装",
+    "python.install.Installer":"安装",
+    "python.install.NoInstalled":"暂无已安装的包",
+    "python.install.NoPackage":"未找到匹配的包",
+    "python.install.help.example": "只输入Python库名称（例如：pygame）",
+    "python.install.help.not": "不要输入pip。",
+    "python.install.help.can": "你可以在官方PyPI仓库中搜索库：",
+    "python.install.package.pyserial": "PySerial提供对串行端口的访问，使Python程序能够与微控制器等硬件进行通信。",
+    "python.install.package.requests": "Requests是一个简洁优雅的HTTP库，允许开发者以最少的努力发送HTTP请求，便于与Web服务和API交互。",
+    "python.install.package.paho-mqtt": "Paho-MQTT是一个实现MQTT消息协议的客户端库，常用于物联网系统中的轻量级设备通信。",
+    "python.install.package.numpy": "NumPy是Python科学计算的基础包，提供强大的N维数组对象和数值运算工具。",
+    "python.install.package.pandas": "Pandas提供快速、灵活、表达力强的数据结构，使处理结构化表格数据变得简单直观。",
+    "python.install.package.scipy": "SciPy基于NumPy构建，提供了大量科学计算和技术计算的算法和函数集合。",
+    "python.install.package.matplotlib": "Matplotlib是一个全面的库，用于在Python中创建静态、动画和交互式可视化图表。",
+    "python.install.package.seaborn": "Seaborn是基于matplotlib的统计数据可视化库，提供绘制美观、信息丰富的图表的高级接口。",
+    "python.install.package.scikit-learn": "Scikit-learn是一个机器学习库，提供分类、回归、聚类、降维、模型选择和评估等工具。",
+    "python.install.package.tensorflow": "TensorFlow是一个开源的数值计算和机器学习平台，支持在不同硬件上构建和部署模型。",
+    "python.install.package.keras": "Keras是为快速实验设计的高级神经网络API，允许用户以最少的代码构建和训练深度学习模型。",
+    "python.install.package.torch": "PyTorch是一个开源的机器学习框架，提供具有强大GPU加速的张量计算和灵活、直观的编程模型。",
+    "python.install.package.opencv-python": "OpenCV-Python为OpenCV库提供Python绑定，支持图像处理、视频分析和实时计算机视觉应用。",
+    "python.install.package.pillow": "Pillow是一个图像处理库，增加对打开、操作和保存多种不同图像文件格式的支持。",
+    "python.install.package.keyboard": "Keyboard提供全局键盘事件监听和按键模拟功能，允许程序实时检测和响应按键操作。",
+    "python.install.package.pygame": "Pygame是一组为编写视频游戏设计的Python模块，支持图形、声音、输入处理和实时交互。",
+    "python.install.packageName": "包名称"
     
     
-
     
 }

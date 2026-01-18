@@ -649,11 +649,32 @@
     "gui.extension.linkBot.name":"Link:Bot",
     "gui.extension.linkBot.description":"Bring your Linkbot to life with movement, sensors, and actions.",
     "gui.extension.k210.name":"AI Vision Link",
-    "gui.extension.k210.description":"Use AI vision to recognize colors, lines, AprilTags, QR codes, faces, objects, roadsides, and run deeplearning mode."
+    "gui.extension.k210.description":"Use AI vision to recognize colors, lines, AprilTags, QR codes, faces, objects, roadsides, and run deeplearning mode.",
     
-      
-      
-    
-    
+    "python.install.Recommended":"Recommended",
+    "python.install.Installed":"Installed",
+    "python.install.Installer":"Installer",
+    "python.install.NoInstalled":"No packages installed",
+    "python.install.NoPackage":"No matching package was found",
+    "python.install.help.example":"Enter the Python library name only (for example: pygame).",
+    "python.install.help.not":"Do not type pip.",
+    "python.install.help.can":"You can search for libraries on the official PyPI repository:",
+    "python.install.package.pyserial": "PySerial provides access to serial ports, enabling communication between Python programs and hardware such as microcontrollers.",
+    "python.install.package.requests": "Requests is a simple and elegant HTTP library for Python that allows developers to send HTTP requests with minimal effort, making it easy to interact with web services and APIs.",
+    "python.install.package.paho-mqtt": "Paho-MQTT is a client library that implements the MQTT messaging protocol, commonly used in IoT systems for lightweight device communication.",
+    "python.install.package.numpy": "NumPy is the fundamental package for scientific computing with Python, providing powerful N-dimensional array objects and tools for numerical operations.",
+    "python.install.package.pandas": "Pandas provides fast, flexible, and expressive data structures designed to make working with structured and tabular data easy and intuitive.",
+    "python.install.package.scipy": "SciPy builds on NumPy and provides a large collection of algorithms and functions for scientific and technical computing.",
+    "python.install.package.matplotlib": "Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.",
+    "python.install.package.seaborn": "Seaborn is a statistical data visualization library based on matplotlib that offers a high-level interface for drawing attractive and informative graphics.",
+    "python.install.package.scikit-learn": "Scikit-learn is a machine learning library that provides tools for classification, regression, clustering, dimensionality reduction, model selection, and evaluation.",
+    "python.install.package.tensorflow": "TensorFlow is an open-source platform for numerical computation and machine learning, supporting model building and deployment across different hardware.",
+    "python.install.package.keras": "Keras is a high-level neural networks API designed for fast experimentation, allowing users to build and train deep learning models with minimal code.",
+    "python.install.package.torch": "PyTorch is an open-source machine learning framework that provides tensor computation with strong GPU acceleration and a flexible, intuitive programming model.",
+    "python.install.package.opencv-python": "OpenCV-Python provides Python bindings for the OpenCV library, enabling image processing, video analysis, and real-time computer vision applications.",
+    "python.install.package.pillow": "Pillow is an image processing library that adds support for opening, manipulating, and saving many different image file formats.",
+    "python.install.package.keyboard": "Keyboard provides global keyboard event listening and key press simulation, allowing programs to detect and respond to key presses in real time.",
+    "python.install.package.pygame": "Pygame is a set of Python modules designed for writing video games, supporting graphics, sound, input handling, and real-time interaction.",
+    "python.install.packageName": "package name"
     
 }
