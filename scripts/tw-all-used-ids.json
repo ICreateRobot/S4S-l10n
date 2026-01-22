@@ -1630,6 +1630,17 @@
   "python.install.package.pillow",
   "python.install.package.keyboard",
   "python.install.package.pygame",
-  "python.install.packageName"
+  "python.install.packageName",
+  "LinkBot.choice_MoveMode.cm", 
+  "LinkBot.ICM_S4S_MovSetPowMode",
+  "LinkBot.LinkBot_continuous_servo", 
+  "LinkBot.LinkBot_continuous_servoStop", 
+  "LinkBot.choice_ultrType.m", 
+  "LinkBot.choice_ultrType.in", 
+  "MicrobiteIcreateP.choiceLightRingColor.grayscale", 
+  "Linkbot.gyro.yaw",
+  "MicrobiteIcreateS4S.week",
+  "Linkbot.Linkbot_power", 
+  "Linkbot.Linkbot_power_external"
 
 ]
