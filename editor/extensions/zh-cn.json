@@ -880,9 +880,9 @@
     "LinkBot.RTC": "RTC",
     "LinkBot.ICM_uartWrite": "串口打印 [TEXT]",
     "LinkBot.ICM_uartRead": "串口读取数据 == [TEXT]",
-    "LinkBot.ICM_digitalWrite": "向 引脚 [CHOICE] 数字写入值 [TEXT]",
-    "LinkBot.ICM_digitalRead": "数字读取 引脚 [CHOICE]",
-    "LinkBot.ICM_analogWrite": "向 引脚 [CHOICE] 模拟写入 [TEXT]",
+    "LinkBot.ICM_digitalWrite": "向 引脚 [CHOICE] 数字写入 [TEXT]",
+    "LinkBot.ICM_digitalRead": "[CHOICE]引脚为高？",
+    "LinkBot.ICM_analogWrite": "向 引脚 [CHOICE] 模拟写入 [TEXT]%",
     "LinkBot.ICM_analogRead": "模拟读取 引脚 [CHOICE]",
 
     "LinkBot.ICM_S4S_isTitled":"是否倾斜 [CHOICE]?",
