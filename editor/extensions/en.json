@@ -214,10 +214,10 @@
     "wedo2.whenTilted": "when tilted [TILT_DIRECTION_ANY]",
     "robotmove.move":"[ONE] at [TWO]% power",
     "robotmove.moveDirTime":"[ONE] at [TWO]% power for [THREE] secs",
-    "robotmove.menuDir.forward":"moves forward",
-    "robotmove.menuDir.backward":"moves backward",
-    "robotmove.menuDir.turnleft":"turns left",
-    "robotmove.menuDir.turnright":"turns right",
+    "robotmove.menuDir.forward":"forward",
+    "robotmove.menuDir.backward":"backward",
+    "robotmove.menuDir.turnleft":"left",
+    "robotmove.menuDir.turnright":"right",
     "robotmove.moveForwardDistance":"[THREE] at [ONE]% power for [TWO] cm",
     "robotmove.moveLeftDegree":"[THREE] at [ONE]% power for [TWO] ° until done",
     "robotmove.moveSpeed":"left wheel rotates at [ONE]% power, right wheel rotates at [TWO]% power",
@@ -711,7 +711,7 @@
     "MicrobiteIcreateS4S.ICM_S4S_acc": "acceleration [CHOICE]",
     "MicrobiteIcreateS4S.ICM_S4S_gyro": "angular velocity [CHOICE]",
     "MicrobiteIcreateS4S.ICM_S4S_voice": "recognized [CHOICE]",
-    "MicrobiteIcreateS4S.ICM_S4S_ultrGet": "distance value",
+    "MicrobiteIcreateS4S.ICM_S4S_ultrGet": "get distance in [TYPE]",
     "MicrobiteIcreateS4S.ICM_S4S_ultrSet": "set eye color to [COL]",
     "MicrobiteIcreateS4S.ICM_S4S_grayStudy": "grayscale learning",
     "MicrobiteIcreateS4S.ICM_S4S_binaryStudy": "binary learning",
@@ -867,14 +867,14 @@
     "LinkBot.Movement": "Movement",
     "LinkBot.ICM_S4S_MovSetPin": "set movement motors to [P1] and [P2]",
     "LinkBot.ICM_S4S_MovRun": "start moving [TYPE]",
-    "LinkBot.ICM_S4S_MovRunSec": "move [TYPE] for [NUM] seconds",
+    "LinkBot.ICM_S4S_MovRunSec": "move [TYPE] for [NUM] [MODE]",
     "LinkBot.ICM_S4S_MovStop": "stop moving",
     "LinkBot.ICM_S4S_MovSetPowAll": "set movement speed to [NUM] ",
     "LinkBot.ICM_S4S_MovSetPow": "move at [P1] [P2] speed",
     "LinkBot.Atmosphere": "Atmosphere Lamp",
     "LinkBot.Line": "Line Following Sensor",
     "LinkBot.Ultrasonic": "Ultrasonic Sensor",
-    "LinkBot.ICM_S4S_ultrGetLog": "distance value [Type] [NUM]",
+    "LinkBot.ICM_S4S_ultrGetLog": "distance value [CHOICE] [NUM] [TYPE]",
     "LinkBot.IMU": "IMU",
     "LinkBot.Voice": "Voice Recognition",
     "LinkBot.RTC": "RTC",
@@ -930,8 +930,10 @@
     "MicrobitIcreate.labelSerial": "Serial",
     
     
-    
-    
+    "LinkBot.ICM_S4S_motorRunRPM": "[CHOICE] start motor at [NUM] RPM",
+    "LinkBot.ICM_S4S_motorGetRPM": "[CHOICE] RPM",
+    "LinkBot.ICM_S4S_servoRelease": "release servo [CHOICE]",
+    "LinkBot.ICM_S4S_setMode": "set mode to [CHOICE] learning",
     
     
     

@@ -712,7 +712,7 @@
     "MicrobiteIcreateS4S.ICM_S4S_acc": "加速度 [CHOICE]",
     "MicrobiteIcreateS4S.ICM_S4S_gyro": "角速度 [CHOICE]",
     "MicrobiteIcreateS4S.ICM_S4S_voice": "语音模块 [CHOICE]",
-    "MicrobiteIcreateS4S.ICM_S4S_ultrGet": "检测的距离值",
+    "MicrobiteIcreateS4S.ICM_S4S_ultrGet": "检测的距离 [TYPE]",
     "MicrobiteIcreateS4S.ICM_S4S_ultrSet": "设置眼睛颜色 [COL]",
     "MicrobiteIcreateS4S.ICM_S4S_grayStudy": "灰度学习",
     "MicrobiteIcreateS4S.ICM_S4S_binaryStudy": "二值学习",
@@ -867,14 +867,14 @@
     "LinkBot.Movement": "运动",
     "LinkBot.ICM_S4S_MovSetPin": "设置运动电机端口为 [P1] 和 [P2]",
     "LinkBot.ICM_S4S_MovRun": "开始移动 [TYPE]",
-    "LinkBot.ICM_S4S_MovRunSec": "以 [TYPE] 移动 [NUM] 秒",
+    "LinkBot.ICM_S4S_MovRunSec": "[TYPE] 移动 [NUM] [MODE]",
     "LinkBot.ICM_S4S_MovStop": "停止移动",
     "LinkBot.ICM_S4S_MovSetPowAll": "设置移动速度为 [NUM] ",
     "LinkBot.ICM_S4S_MovSetPow": "以 [P1] [P2] 速度移动",
     "LinkBot.Atmosphere": "LEDS",
     "LinkBot.Line": "巡线传感器",
     "LinkBot.Ultrasonic": "超声波",
-    "LinkBot.ICM_S4S_ultrGetLog": "距离值 [Type] [NUM]",
+    "LinkBot.ICM_S4S_ultrGetLog": "距离值  [CHOICE] [NUM] [TYPE]",
     "LinkBot.IMU": "陀螺仪",
     "LinkBot.Voice": "语音识别",
     "LinkBot.RTC": "RTC",
@@ -914,6 +914,10 @@
     "Linkbot.Linkbot_power":"读取电池电量",
     "Linkbot.Linkbot_power_external":"读取外部电池电压",
 
+    "LinkBot.ICM_S4S_motorRunRPM": "电机 [CHOICE] 以 [NUM] RPM 运行",
+    "LinkBot.ICM_S4S_motorGetRPM": "电机 [CHOICE] RPM",
+    "LinkBot.ICM_S4S_servoRelease": "释放舵机 [CHOICE]",
+    "LinkBot.ICM_S4S_setMode": "设置 [CHOICE] 学习",
     
     
 
