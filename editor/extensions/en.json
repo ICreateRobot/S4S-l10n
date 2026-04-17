@@ -880,7 +880,7 @@
     "LinkBot.RTC": "RTC",
 
     "LinkBot.ICM_uartWrite": "serial write [TEXT]",
-    "LinkBot.ICM_uartRead": "serial read == [TEXT]",
+    "LinkBot.ICM_uartRead": "serial read string",
     "LinkBot.ICM_digitalWrite": "set [CHOICE] digital [TEXT]",
     "LinkBot.ICM_digitalRead": "[CHOICE] pin is hight?",
     "LinkBot.ICM_analogWrite": "set [CHOICE] analog [TEXT]%",
@@ -935,10 +935,16 @@
     "LinkBot.ICM_S4S_servoRelease": "release servo [CHOICE]",
     "LinkBot.ICM_S4S_setMode": "set mode to [CHOICE] learning",
     
-    
-    
+    "LinkBot.ICM_radioSetGroup":"radio set group [TEXT] with power [CHOICE]",
+    "LinkBot.ICM_radioSend":"send data [TEXT] to microbit",
 
+    "MicrobitIcreate.ICM_radioRecive":"receive data from microbit",
     
-
+    "LinkBot.ICM_uartReadUntil":"serial read until [CHOICE]",
+    "LinkBot.ICM_uartRedirect":"serial redirect to TX[TX] RX[RX] at baud rate[CHOICE]",
+    "MicrobitIcreate.ICM_acceleration":"acceleration [CHOICE]",
+    "MicrobitIcreate.choice_acceleration.absolute":"absolute",
+    
+    "LinkBot.ICM_uartRedirectUSB":"serial redirect to USB",
     "MicrobiteIcreateS4S.name":"Link Bot"
 }
