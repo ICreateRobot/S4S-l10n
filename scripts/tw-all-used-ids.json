@@ -1645,6 +1645,7 @@
   "LinkBot.ICM_S4S_motorRunRPM",
   "LinkBot.ICM_S4S_motorGetRPM",
   "LinkBot.ICM_S4S_servoRelease",
-  "LinkBot.ICM_S4S_setMode"
-
+  "LinkBot.ICM_S4S_setMode",
+  "gui.codeEditor.selectDevice",
+  "gui.alert.confirmUnlock"
 ]
