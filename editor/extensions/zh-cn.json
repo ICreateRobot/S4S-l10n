@@ -878,8 +878,8 @@
     "LinkBot.IMU": "陀螺仪",
     "LinkBot.Voice": "语音识别",
     "LinkBot.RTC": "RTC",
-    "LinkBot.ICM_uartWrite": "串口打印 [TEXT]",
-    "LinkBot.ICM_uartRead": "串口读取数据 == [TEXT]",
+    "LinkBot.ICM_uartWrite": "串行打印 [TEXT]",
+    "LinkBot.ICM_uartRead": "串行读取字符串",
     "LinkBot.ICM_digitalWrite": "向 引脚 [CHOICE] 数字写入 [TEXT]",
     "LinkBot.ICM_digitalRead": "[CHOICE]引脚为高？",
     "LinkBot.ICM_analogWrite": "向 引脚 [CHOICE] 模拟写入 [TEXT]%",
@@ -918,9 +918,26 @@
     "LinkBot.ICM_S4S_motorGetRPM": "电机 [CHOICE] RPM",
     "LinkBot.ICM_S4S_servoRelease": "释放舵机 [CHOICE]",
     "LinkBot.ICM_S4S_setMode": "设置 [CHOICE] 学习",
-    
-    
+    "LinkBot.ICM_playSpeaker":"播放频率为 [HZ] Hz 的音调，音量为 [VALUE]%",
+    "LinkBot.ICM_stopSpeaker":"停止播放音调",
+    "LinkBot.ICM_pinInput":"设置引脚 [CHOICE] 为输入，上拉/下拉 [TYPE]",
 
+    "LinkBot.choice_PinType.up": "上拉",
+    "LinkBot.choice_PinType.down": "下拉",
+    "LinkBot.choice_PinType.none": "空",
 
+    "LinkBot.ICM_radioSetGroup":"设置无线组为 [TEXT] 发射功率为 [CHOICE]",
+    "LinkBot.ICM_radioSend":"发送数据 [TEXT] 到 micro:bit",
+
+    "MicrobitIcreate.ICM_radioRecive":"从 micro:bit 接收数据",
+    "LinkBot.ICM_uartReadUntil":"串行读取直到 [CHOICE]",
+    "LinkBot.ICM_uartRedirect":"将串行重定向到 TX[TX] RX[RX] 波特率为 [CHOICE]",
+    "LinkBot.ICM_uartRedirectUSB":"串行重定向到USB",
+
+    "LinkBot.choice_PinLevel.hight": "高电平",
+    "LinkBot.choice_PinLevel.low": "低电平",
+
+    "MicrobitIcreate.ICM_acceleration":"加速度 [CHOICE]",
+    "MicrobitIcreate.choice_acceleration.absolute":"绝对值",
     "MicrobiteIcreateS4S.name":"Link Bot"
 }

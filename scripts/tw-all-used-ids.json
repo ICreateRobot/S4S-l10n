@@ -1246,6 +1246,8 @@
 
   "MicrobitIcreate.name",
   "MicrobiteIcreateP.name",
+  "MicrobitIcreate.ICM_acceleration",
+  "MicrobitIcreate.choice_acceleration.absolute",
 
 
 
@@ -1647,5 +1649,20 @@
   "LinkBot.ICM_S4S_servoRelease",
   "LinkBot.ICM_S4S_setMode",
   "gui.codeEditor.selectDevice",
-  "gui.alert.confirmUnlock"
+  "gui.alert.confirmUnlock",
+  "LinkBot.ICM_pinInput",
+
+  "LinkBot.ICM_playSpeaker",
+  "LinkBot.ICM_stopSpeaker",
+  "LinkBot.choice_PinType.up",
+  "LinkBot.choice_PinType.down",
+  "LinkBot.choice_PinType.none",
+  "LinkBot.ICM_radioSetGroup",
+  "LinkBot.ICM_radioSend",
+  "MicrobitIcreate.ICM_radioRecive",
+  "LinkBot.ICM_uartReadUntil",
+  "LinkBot.ICM_uartRedirect",
+  "LinkBot.ICM_uartRedirectUSB",
+  "LinkBot.choice_PinLevel.hight",
+  "LinkBot.choice_PinLevel.low"
 ]
