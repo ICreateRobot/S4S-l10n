@@ -1648,6 +1648,8 @@
   "LinkBot.ICM_S4S_motorGetRPM",
   "LinkBot.ICM_S4S_servoRelease",
   "LinkBot.ICM_S4S_setMode",
+  "gui.codeEditor.selectDevice",
+  "gui.alert.confirmUnlock",
   "LinkBot.ICM_pinInput",
 
   "LinkBot.ICM_playSpeaker",

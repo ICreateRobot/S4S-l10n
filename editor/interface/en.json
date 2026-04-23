@@ -675,6 +675,9 @@
     "python.install.package.pillow": "Pillow is an image processing library that adds support for opening, manipulating, and saving many different image file formats.",
     "python.install.package.keyboard": "Keyboard provides global keyboard event listening and key press simulation, allowing programs to detect and respond to key presses in real time.",
     "python.install.package.pygame": "Pygame is a set of Python modules designed for writing video games, supporting graphics, sound, input handling, and real-time interaction.",
-    "python.install.packageName": "package name"
+    "python.install.packageName": "package name",
+
+    "gui.codeEditor.selectDevice": "Please select a device.",
+    "gui.alert.confirmUnlock":"Unlocking will discard unsaved code. Continue?"
     
 }

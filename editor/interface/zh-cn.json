@@ -675,7 +675,10 @@
     "python.install.package.pillow": "Pillow是一个图像处理库，增加对打开、操作和保存多种不同图像文件格式的支持。",
     "python.install.package.keyboard": "Keyboard提供全局键盘事件监听和按键模拟功能，允许程序实时检测和响应按键操作。",
     "python.install.package.pygame": "Pygame是一组为编写视频游戏设计的Python模块，支持图形、声音、输入处理和实时交互。",
-    "python.install.packageName": "包名称"
+    "python.install.packageName": "包名称",
+
+    "gui.codeEditor.selectDevice": "请选择设备",
+    "gui.alert.confirmUnlock":"解除锁定将丢失未保存代码，是否继续？"
     
     
     
