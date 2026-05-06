@@ -678,6 +678,12 @@
     "python.install.packageName": "package name",
 
     "gui.codeEditor.selectDevice": "Please select a device.",
-    "gui.alert.confirmUnlock":"Unlocking will discard unsaved code. Continue?"
+    "gui.alert.confirmUnlock":"Unlocking will discard unsaved code. Continue?",
+
+    "gui.extension.Ultrasonic.name": "Ultrasonic",
+    "gui.extension.Ultrasonic.description":"Detect obstacles and measure distances in real-time. Use sound waves to help your projects 'see' objects, avoid crashes, or trigger alarms when someone gets too close.",
+    "gui.extension.LineFollow.name": "Line Following Sensor",
+    "gui.extension.LineFollow.description":"Uses 4 sensors to track lines and detect colors. Used for following line paths, staying on track, or reacting to colors."
+    
     
 }

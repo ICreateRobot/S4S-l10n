@@ -1779,5 +1779,12 @@
   "k210.menuMotion.left",
   "k210.menuMotion.right",
   "k210.menuMotion.stop",
-  "MicrobiteIcreateP.choiceLightRingColor.colornone"
+  "MicrobiteIcreateP.choiceLightRingColor.colornone",
+
+  "LineFollow.name",
+  "Ultrasonic.name",
+  "gui.extension.Ultrasonic.name",
+  "gui.extension.Ultrasonic.description",
+  "gui.extension.LineFollow.name",
+  "gui.extension.LineFollow.description"
 ]

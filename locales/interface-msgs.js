@@ -5972,7 +5972,11 @@ export default {
     "python.install.package.pygame": "Pygame is a set of Python modules designed for writing video games, supporting graphics, sound, input handling, and real-time interaction.",
     "python.install.packageName": "package name",
     "gui.codeEditor.selectDevice": "Please select a device.",
-    "gui.alert.confirmUnlock": "Unlocking will discard unsaved code. Continue?"
+    "gui.alert.confirmUnlock": "Unlocking will discard unsaved code. Continue?",
+    "gui.extension.Ultrasonic.name": "Ultrasonic",
+    "gui.extension.Ultrasonic.description": "Detect obstacles and measure distances in real-time. Use sound waves to help your projects 'see' objects, avoid crashes, or trigger alarms when someone gets too close.",
+    "gui.extension.LineFollow.name": "Line Following Sensor",
+    "gui.extension.LineFollow.description": "Uses 4 sensors to track lines and detect colors. Used for following line paths, staying on track, or reacting to colors."
   },
   "es": {
     "gui.alerts.tryAgain": "Vuelve a intentarlo",
@@ -24533,7 +24537,11 @@ export default {
     "python.install.package.pygame": "Pygame是一组为编写视频游戏设计的Python模块，支持图形、声音、输入处理和实时交互。",
     "python.install.packageName": "包名称",
     "gui.codeEditor.selectDevice": "请选择设备",
-    "gui.alert.confirmUnlock": "解除锁定将丢失未保存代码，是否继续？"
+    "gui.alert.confirmUnlock": "解除锁定将丢失未保存代码，是否继续？",
+    "gui.extension.Ultrasonic.name": "超声波",
+    "gui.extension.Ultrasonic.description": "实时检测障碍物并测量距离。利用声波帮助您的项目‘看到’物体，避免碰撞，或者在有人靠近时触发警报。",
+    "gui.extension.LineFollow.name": "巡线传感器",
+    "gui.extension.LineFollow.description": "使用 4 个传感器来追踪线条和检测颜色。用于跟随线条路径、保持在轨道上或对颜色做出反应。"
   },
   "zh-tw": {
     "gui.alerts.tryAgain": "再試一次",

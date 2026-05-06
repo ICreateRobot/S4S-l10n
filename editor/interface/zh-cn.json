@@ -678,7 +678,13 @@
     "python.install.packageName": "包名称",
 
     "gui.codeEditor.selectDevice": "请选择设备",
-    "gui.alert.confirmUnlock":"解除锁定将丢失未保存代码，是否继续？"
+    "gui.alert.confirmUnlock":"解除锁定将丢失未保存代码，是否继续？",
+
+    "gui.extension.Ultrasonic.name": "超声波",
+    "gui.extension.Ultrasonic.description":"实时检测障碍物并测量距离。利用声波帮助您的项目‘看到’物体，避免碰撞，或者在有人靠近时触发警报。",
+    "gui.extension.LineFollow.name": "巡线传感器",
+    "gui.extension.LineFollow.description":"使用 4 个传感器来追踪线条和检测颜色。用于跟随线条路径、保持在轨道上或对颜色做出反应。"
+    
     
     
     

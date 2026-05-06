@@ -4882,7 +4882,9 @@ export default {
     "k210.menuMotion.left": "Turn left",
     "k210.menuMotion.right": "Turn right",
     "k210.menuMotion.stop": "Stop",
-    "MicrobiteIcreateP.choiceLightRingColor.colornone": "clear color"
+    "MicrobiteIcreateP.choiceLightRingColor.colornone": "clear color",
+    "LineFollow.name": "Line Following Sensor",
+    "Ultrasonic.name": "Ultrasonic"
   },
   "es": {
     "boost.color.any": "de cualquier color",
@@ -18581,7 +18583,9 @@ export default {
     "k210.menuMotion.left": "左转",
     "k210.menuMotion.right": "右转",
     "k210.menuMotion.stop": "停止",
-    "MicrobiteIcreateP.choiceLightRingColor.colornone": "清空颜色"
+    "MicrobiteIcreateP.choiceLightRingColor.colornone": "清空颜色",
+    "LineFollow.name": "巡线传感器",
+    "Ultrasonic.name": "超声波"
   },
   "zh-tw": {
     "boost.color.any": "任何顏色",

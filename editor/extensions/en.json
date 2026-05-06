@@ -1060,5 +1060,8 @@
     "k210.menuMotion.left": "Turn left",
     "k210.menuMotion.right": "Turn right",
     "k210.menuMotion.stop": "Stop",
-    "MicrobiteIcreateP.choiceLightRingColor.colornone":"clear color"
+    "MicrobiteIcreateP.choiceLightRingColor.colornone":"clear color",
+
+    "LineFollow.name":"Line Following Sensor",
+    "Ultrasonic.name":"Ultrasonic"
 }
