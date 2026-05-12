@@ -683,7 +683,13 @@
     "gui.extension.Ultrasonic.name": "Ultrasonic",
     "gui.extension.Ultrasonic.description":"Detect obstacles and measure distances in real-time. Use sound waves to help your projects 'see' objects, avoid crashes, or trigger alarms when someone gets too close.",
     "gui.extension.LineFollow.name": "Line Following Sensor",
-    "gui.extension.LineFollow.description":"Uses 4 sensors to track lines and detect colors. Used for following line paths, staying on track, or reacting to colors."
+    "gui.extension.LineFollow.description":"Uses 4 sensors to track lines and detect colors. Used for following line paths, staying on track, or reacting to colors.",
+
+    "upload.flash.not-disconnect":"Please do not disconnect the device",
+    "upload.flash.uploading": "upload code...",
+    "upload.flash.compiling": "compiling...",
+    "upload.flash.copy": "Copy",
+    "upload.flash.copied": "Copied"
     
     
 }

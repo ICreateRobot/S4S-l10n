@@ -1786,5 +1786,11 @@
   "gui.extension.Ultrasonic.name",
   "gui.extension.Ultrasonic.description",
   "gui.extension.LineFollow.name",
-  "gui.extension.LineFollow.description"
+  "gui.extension.LineFollow.description",
+
+  "upload.flash.not-disconnect",
+  "upload.flash.uploading",
+  "upload.flash.compiling",
+  "upload.flash.copy",
+  "upload.flash.copied"
 ]

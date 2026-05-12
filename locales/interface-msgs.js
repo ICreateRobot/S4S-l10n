@@ -5976,7 +5976,12 @@ export default {
     "gui.extension.Ultrasonic.name": "Ultrasonic",
     "gui.extension.Ultrasonic.description": "Detect obstacles and measure distances in real-time. Use sound waves to help your projects 'see' objects, avoid crashes, or trigger alarms when someone gets too close.",
     "gui.extension.LineFollow.name": "Line Following Sensor",
-    "gui.extension.LineFollow.description": "Uses 4 sensors to track lines and detect colors. Used for following line paths, staying on track, or reacting to colors."
+    "gui.extension.LineFollow.description": "Uses 4 sensors to track lines and detect colors. Used for following line paths, staying on track, or reacting to colors.",
+    "upload.flash.not-disconnect": "Please do not disconnect the device",
+    "upload.flash.uploading": "upload code...",
+    "upload.flash.compiling": "compiling...",
+    "upload.flash.copy": "Copy",
+    "upload.flash.copied": "Copied"
   },
   "es": {
     "gui.alerts.tryAgain": "Vuelve a intentarlo",
@@ -24541,7 +24546,12 @@ export default {
     "gui.extension.Ultrasonic.name": "超声波",
     "gui.extension.Ultrasonic.description": "实时检测障碍物并测量距离。利用声波帮助您的项目‘看到’物体，避免碰撞，或者在有人靠近时触发警报。",
     "gui.extension.LineFollow.name": "巡线传感器",
-    "gui.extension.LineFollow.description": "使用 4 个传感器来追踪线条和检测颜色。用于跟随线条路径、保持在轨道上或对颜色做出反应。"
+    "gui.extension.LineFollow.description": "使用 4 个传感器来追踪线条和检测颜色。用于跟随线条路径、保持在轨道上或对颜色做出反应。",
+    "upload.flash.not-disconnect": "请不要断开设备连接",
+    "upload.flash.uploading": "上传中...",
+    "upload.flash.compiling": "编译中...",
+    "upload.flash.copy": "复制",
+    "upload.flash.copied": "已复制"
   },
   "zh-tw": {
     "gui.alerts.tryAgain": "再試一次",
