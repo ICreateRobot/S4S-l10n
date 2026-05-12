@@ -689,7 +689,42 @@
     "upload.flash.uploading": "upload code...",
     "upload.flash.compiling": "compiling...",
     "upload.flash.copy": "Copy",
-    "upload.flash.copied": "Copied"
+    "upload.flash.copied": "Copied",
+
+    "uieditor.property":"Property",
+    "uieditor.property.background":"Background",
+    "uieditor.property.name": "Name",
+    "uieditor.property.layer": "Layer",
+    "uieditor.property.x": "X",
+    "uieditor.property.y": "Y",
+    "uieditor.property.width": "Width",
+    "uieditor.property.height": "Height",
+    "uieditor.property.text": "Text",
+    "uieditor.property.color": "Color",
+    "uieditor.property.fontSize": "Font Size",
+    "uieditor.property.borderColor":"Border",
+    "uieditor.property.x1":"x1",
+    "uieditor.property.y1":"y1",
+    "uieditor.property.x2":"x2",
+    "uieditor.property.y2":"y2",
+    "uieditor.property.path":"Path",
+    "uieditor.property.onColor":"On Color",
+    "uieditor.property.min": "Min",
+    "uieditor.property.max": "Max",
+    "uieditor.property.value": "Value",
+    "uieditor.property.radius": "Radius",
+    "uieditor.component.title": "title",
+    "uieditor.component.label": "label",
+    "uieditor.component.rectangle": "rectangle",
+    "uieditor.component.circle": "circle",
+    "uieditor.component.line": "line",
+    "uieditor.component.image": "image",
+    "uieditor.component.button": "button",
+    "uieditor.component.switch": "switch",
+    "uieditor.component.slider": "slider",
+    "uieditor.delete.confirm":"Confirm delete this component?"
+    
+    
     
     
 }
