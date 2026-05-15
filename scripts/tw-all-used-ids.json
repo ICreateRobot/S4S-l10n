@@ -1825,5 +1825,7 @@
   "uieditor.component.button",
   "uieditor.component.switch",
   "uieditor.component.slider",
-  "uieditor.delete.confirm"
+  "uieditor.delete.confirm",
+  "Esp32S4S.startRecording.AUDIOSOURCE.SD",
+  "Esp32S4S.startRecording.AUDIOSOURCE.LOCAL"
 ]

@@ -794,10 +794,10 @@
     "k210.menuEmote.open": "张嘴",
     "k210.menuEmote.smiling": "微笑",
     "k210.menuEmote.Wearing": "戴眼镜",
-    "k210.menuFace.face0": "人脸0",
-    "k210.menuFace.face1": "人脸1",
-    "k210.menuFace.face2": "人脸2",
-    "k210.menuFace.face3": "人脸3",
+    "k210.menuFace.face0": "人脸1",
+    "k210.menuFace.face1": "人脸2",
+    "k210.menuFace.face2": "人脸3",
+    "k210.menuFace.face3": "人脸4",
     "k210.menuObj.Airplane": "(0)飞机",
     "k210.menuObj.Bicycle": "(1)自行车",
     "k210.menuObj.Bird": "(2)鸟",
@@ -958,7 +958,7 @@
     "ArduinoS4S.Microphone": "麦克风",
     "ArduinoS4S.ICA_S4S_startRecording": "开始录音 [NUM] 秒",
     "ArduinoS4S.ICA_S4S_playRecording": "播放录音",
-    "ArduinoS4S.ICA_S4S_stopPlayRecording": "停止播放录音",
+    "ArduinoS4S.ICA_S4S_stopPlayRecording": "停止录音",
     "ArduinoS4S.Speaker": "扬声器",
     "ArduinoS4S.ICA_S4S_getAudioFile": "从 SD 卡获取音频文件 [TEXT]",
     "ArduinoS4S.ICA_S4S_setVolume": "设置输出音量为 [NUM]",
@@ -1001,13 +1001,13 @@
     "Esp32S4S.buttonPressed": "[CHOICE] 按钮被按下？",
     "Esp32S4S.soundLevel": "声音强度",
     "Esp32S4S.Microphone": "麦克风",
-    "Esp32S4S.startRecording": "开始录音 [NUM] 秒",
-    "Esp32S4S.playRecording": "播放录音",
+    "Esp32S4S.startRecording": "录制 [NUM] 秒，文件名 [FILENAME]，音源 [AUDIOSOURCE]。",
+    "Esp32S4S.playRecording": "播放录音 [FILENAME]，使用 [AUDIOSOURCE] 音源。",
     "Esp32S4S.stopPlayRecording": "停止播放录音",
     "Esp32S4S.Speaker": "扬声器",
     "Esp32S4S.getAudioFile": "从 SD 卡获取音频文件 [TEXT]",
     "Esp32S4S.setVolume": "设置音量为 [NUM]",
-    "Esp32S4S.playAudio": "播放音频",
+    "Esp32S4S.playAudio": "播放音频[TEXT]",
     "Esp32S4S.stopAudio": "停止音频",
     "Esp32S4S.Pins": "引脚",
     "Esp32S4S.setDigital": "设置数字引脚 [PIN] 输出为 [CHOICE]",
@@ -1057,6 +1057,9 @@
     "MicrobiteIcreateP.choiceLightRingColor.colornone":"清空颜色",
 
     "LineFollow.name":"巡线传感器",
-    "Ultrasonic.name":"超声波"
+    "Ultrasonic.name":"超声波",
+
+    "Esp32S4S.startRecording.AUDIOSOURCE.SD":"SD卡音频",
+    "Esp32S4S.startRecording.AUDIOSOURCE.LOCAL":"本机音频"
 
 }
