@@ -722,9 +722,12 @@
     "uieditor.component.button": "按钮",
     "uieditor.component.switch": "开关",
     "uieditor.component.slider": "滑块",
-    "uieditor.delete.confirm":"确定要删除这个组件吗？"
-    
-    
-    
+    "uieditor.delete.confirm":"确定要删除这个组件吗？",
+
+    "gui.toast.error.001":"未连接设备",
+    "gui.toast.error.002":"设备离线，无法执行该操作."
+
+
+
     
 }
