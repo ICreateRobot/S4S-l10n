@@ -755,7 +755,7 @@
     "k210.objInfo": "Recognized object position info [ONE]",
     "k210.qrLabel": "QR code recognition",
     "k210.qrIsRecogn": "Is a QR code recognized?",
-    "k210.qrCont": "Recognized QR code content",
+    "k210.qrCont": "Recognized QR code content = [TEXT]?",
     "k210.qrInfo": "Recognized QR code position info [ONE]",
     "k210.faceAttrLabel": "face attributes",
     "k210.faceAttrNum": "Number of detected faces",
