@@ -6013,7 +6013,9 @@ export default {
     "uieditor.component.button": "button",
     "uieditor.component.switch": "switch",
     "uieditor.component.slider": "slider",
-    "uieditor.delete.confirm": "Confirm delete this component?"
+    "uieditor.delete.confirm": "Confirm delete this component?",
+    "gui.toast.error.001": "unconnected device",
+    "gui.toast.error.002": "Device is offline, unable to perform the operation."
   },
   "es": {
     "gui.alerts.tryAgain": "Vuelve a intentarlo",
@@ -24615,7 +24617,9 @@ export default {
     "uieditor.component.button": "按钮",
     "uieditor.component.switch": "开关",
     "uieditor.component.slider": "滑块",
-    "uieditor.delete.confirm": "确定要删除这个组件吗？"
+    "uieditor.delete.confirm": "确定要删除这个组件吗？",
+    "gui.toast.error.001": "未连接设备",
+    "gui.toast.error.002": "设备离线，无法执行该操作."
   },
   "zh-tw": {
     "gui.alerts.tryAgain": "再試一次",
