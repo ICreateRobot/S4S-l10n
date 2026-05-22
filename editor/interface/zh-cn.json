@@ -725,7 +725,8 @@
     "uieditor.delete.confirm":"确定要删除这个组件吗？",
 
     "gui.toast.error.001":"未连接设备",
-    "gui.toast.error.002":"设备离线，无法执行该操作."
+    "gui.toast.error.002":"设备离线，无法执行该操作.",
+    "gui.toast.error.200":"连接成功"
 
 
 

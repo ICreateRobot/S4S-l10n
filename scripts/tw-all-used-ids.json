@@ -1830,5 +1830,6 @@
   "Esp32S4S.startRecording.AUDIOSOURCE.LOCAL",
 
   "gui.toast.error.001",
-  "gui.toast.error.002"
+  "gui.toast.error.002",
+  "gui.toast.error.200"
 ]

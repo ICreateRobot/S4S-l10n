@@ -725,7 +725,8 @@
     "uieditor.delete.confirm":"Confirm delete this component?",
 
     "gui.toast.error.001":"unconnected device",
-    "gui.toast.error.002":"Device is offline, unable to perform the operation."
+    "gui.toast.error.002":"Device is offline, unable to perform the operation.",
+    "gui.toast.error.200":"Connected Successfully"
     
     
     
