@@ -1831,5 +1831,8 @@
 
   "gui.toast.error.001",
   "gui.toast.error.002",
-  "gui.toast.error.200"
+  "gui.toast.error.200",
+
+  "gui.uploadFirmware.Write",
+  "gui.uploadFirmware.Writing"
 ]

@@ -726,7 +726,10 @@
 
     "gui.toast.error.001":"未连接设备",
     "gui.toast.error.002":"设备离线，无法执行该操作.",
-    "gui.toast.error.200":"连接成功"
+    "gui.toast.error.200":"连接成功",
+
+    "gui.uploadFirmware.Write":"写入",
+    "gui.uploadFirmware.Writing":"写入中…"
 
 
 
