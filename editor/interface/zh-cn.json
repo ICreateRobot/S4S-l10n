@@ -729,7 +729,28 @@
     "gui.toast.error.200":"连接成功",
 
     "gui.uploadFirmware.Write":"写入",
-    "gui.uploadFirmware.Writing":"写入中…"
+    "gui.uploadFirmware.Writing":"写入中…",
+
+    "gui.checkVersion.update":"检测到新版本，请更新",
+    "gui.iot.screen":"背景",
+    "gui.iot.title":"标题",
+    "gui.iot.label":"标签",
+    "gui.iot.image":"图片",
+    "gui.iot.text":"文本",
+    "gui.iot.button":"按钮",
+    "gui.iot.switch":"开关",
+    "gui.iot.slider":"滑块",
+    "gui.iot.gauge":"仪表盘",
+    "gui.iot.joystick":"摇杆",
+    "iot.property.interval":"间隔(ms)",
+    "iot.property.url":"URL",
+    "iot.property.Xmin":"X最小值",
+    "iot.property.Xmax":"X最大值",
+    "iot.property.Ymin":"Y最小值",
+    "iot.property.Ymax":"Y最大值",
+    "uieditor.delete.allConfirm":"确定要删除所有组件吗？",
+    "gui.toast.error.201":"执行成功",
+    "gui.toast.error.003":"执行失败"
 
 
 

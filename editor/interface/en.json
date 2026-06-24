@@ -729,7 +729,29 @@
     "gui.toast.error.200":"Connected Successfully",
 
     "gui.uploadFirmware.Write":"Write",
-    "gui.uploadFirmware.Writing":"Writing…"
+    "gui.uploadFirmware.Writing":"Writing…",
+
+    "gui.checkVersion.update":"New version detected, please update",
+    "gui.iot.screen":"screen",
+    "gui.iot.title":"title",
+    "gui.iot.label":"label",
+    "gui.iot.image":"image",
+    "gui.iot.text":"text",
+    "gui.iot.button":"button",
+    "gui.iot.switch":"switch",
+    "gui.iot.slider":"slider",
+    "gui.iot.gauge":"gauge",
+    "gui.iot.joystick":"joystick",
+    "iot.property.interval":"Interval(ms)",
+    "iot.property.url":"URL",
+    "iot.property.Xmin":"X Min",
+    "iot.property.Xmax":"X Max",
+    "iot.property.Ymin":"Y Min",    
+    "iot.property.Ymax":"Y Max",
+    "uieditor.delete.allConfirm":"Confirm delete all component?",
+    "gui.toast.error.201":"Execution successful",
+    "gui.toast.error.003":"Execution failed"
+
     
     
     

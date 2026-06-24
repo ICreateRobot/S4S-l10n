@@ -1834,5 +1834,26 @@
   "gui.toast.error.200",
 
   "gui.uploadFirmware.Write",
-  "gui.uploadFirmware.Writing"
+  "gui.uploadFirmware.Writing",
+
+  "gui.checkVersion.update",
+  "gui.iot.screen",
+  "gui.iot.title",
+  "gui.iot.label",
+  "gui.iot.image",
+  "gui.iot.text",
+  "gui.iot.button",
+  "gui.iot.switch",
+  "gui.iot.slider",
+  "gui.iot.gauge",
+  "gui.iot.joystick",
+  "iot.property.interval",
+  "iot.property.url",
+  "iot.property.Xmin",
+  "iot.property.Xmax",
+  "iot.property.Ymin",
+  "iot.property.Ymax",
+  "uieditor.delete.allConfirm",
+  "gui.toast.error.201",
+  "gui.toast.error.003"
 ]
