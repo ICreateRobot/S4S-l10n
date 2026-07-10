@@ -1952,5 +1952,7 @@
   "UIEditor.fontSizeMenu.medium",
   "UIEditor.fontSizeMenu.large",
   "UIEditor.switchStateMenu.on",
-  "UIEditor.switchStateMenu.off"
+  "UIEditor.switchStateMenu.off",
+  "gui.extension.espMore.description",
+  "gui.extension.espMore.name"
 ]

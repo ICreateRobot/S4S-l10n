@@ -6038,7 +6038,9 @@ export default {
     "iot.property.Ymax": "Y Max",
     "uieditor.delete.allConfirm": "Confirm delete all component?",
     "gui.toast.error.201": "Execution successful",
-    "gui.toast.error.003": "Execution failed"
+    "gui.toast.error.003": "Execution failed",
+    "gui.extension.espMore.description": "More ESP modules…",
+    "gui.extension.espMore.name": "ESP More"
   },
   "es": {
     "gui.alerts.tryAgain": "Vuelve a intentarlo",
@@ -24665,7 +24667,9 @@ export default {
     "iot.property.Ymax": "Y最大值",
     "uieditor.delete.allConfirm": "确定要删除所有组件吗？",
     "gui.toast.error.201": "执行成功",
-    "gui.toast.error.003": "执行失败"
+    "gui.toast.error.003": "执行失败",
+    "gui.extension.espMore.description": "更多ESP模块…",
+    "gui.extension.espMore.name": "更多ESP"
   },
   "zh-tw": {
     "gui.alerts.tryAgain": "再試一次",

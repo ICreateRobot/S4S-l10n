@@ -750,10 +750,10 @@
     "iot.property.Ymax":"Y Max",
     "uieditor.delete.allConfirm":"Confirm delete all component?",
     "gui.toast.error.201":"Execution successful",
-    "gui.toast.error.003":"Execution failed"
+    "gui.toast.error.003":"Execution failed",
 
     
-    
-    
+    "gui.extension.espMore.description":"More ESP modules…",
+    "gui.extension.espMore.name":"ESP More"
     
 }

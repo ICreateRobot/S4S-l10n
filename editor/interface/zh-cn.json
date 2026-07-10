@@ -750,8 +750,10 @@
     "iot.property.Ymax":"Y最大值",
     "uieditor.delete.allConfirm":"确定要删除所有组件吗？",
     "gui.toast.error.201":"执行成功",
-    "gui.toast.error.003":"执行失败"
+    "gui.toast.error.003":"执行失败",
 
+    "gui.extension.espMore.description":"更多ESP模块…",
+    "gui.extension.espMore.name":"更多ESP"
 
 
     
