@@ -1956,5 +1956,6 @@
   "gui.extension.espMore.description",
   "gui.extension.espMore.name",
   "gui.serial.autoScroll",
-  "gui.serial.PleaseSelect"
+  "gui.serial.PleaseSelect",
+  "gui.esp32.project"
 ]

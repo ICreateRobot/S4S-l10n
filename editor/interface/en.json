@@ -757,6 +757,7 @@
     "gui.extension.espMore.name":"ESP More",
 
     "gui.serial.autoScroll":"Auto Scroll",
-    "gui.serial.PleaseSelect":"Select"
+    "gui.serial.PleaseSelect":"Select",
+    "gui.esp32.project":"Project"
     
 }

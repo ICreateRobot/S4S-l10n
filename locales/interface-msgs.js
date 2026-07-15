@@ -6042,7 +6042,8 @@ export default {
     "gui.extension.espMore.description": "More ESP modules…",
     "gui.extension.espMore.name": "ESP More",
     "gui.serial.autoScroll": "Auto Scroll",
-    "gui.serial.PleaseSelect": "Select"
+    "gui.serial.PleaseSelect": "Select",
+    "gui.esp32.project": "Project"
   },
   "es": {
     "gui.alerts.tryAgain": "Vuelve a intentarlo",
@@ -24673,7 +24674,8 @@ export default {
     "gui.extension.espMore.description": "更多ESP模块…",
     "gui.extension.espMore.name": "更多ESP",
     "gui.serial.autoScroll": "自动滚动",
-    "gui.serial.PleaseSelect": "请选择"
+    "gui.serial.PleaseSelect": "请选择",
+    "gui.esp32.project": "项目"
   },
   "zh-tw": {
     "gui.alerts.tryAgain": "再試一次",
