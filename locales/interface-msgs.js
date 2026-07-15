@@ -5862,7 +5862,7 @@ export default {
     "download": "download",
     "control": "control",
     "monitor": "monitor",
-    "sendMonitior": "send",
+    "sendMonitior": "Send",
     "clearMonitior": "clear",
     "gui.enter": "enter",
     "gui.importFile": "import",
@@ -6040,7 +6040,9 @@ export default {
     "gui.toast.error.201": "Execution successful",
     "gui.toast.error.003": "Execution failed",
     "gui.extension.espMore.description": "More ESP modules…",
-    "gui.extension.espMore.name": "ESP More"
+    "gui.extension.espMore.name": "ESP More",
+    "gui.serial.autoScroll": "Auto Scroll",
+    "gui.serial.PleaseSelect": "Select"
   },
   "es": {
     "gui.alerts.tryAgain": "Vuelve a intentarlo",
@@ -24528,7 +24530,7 @@ export default {
     "gui.connectModal.noDevices": "未扫描到设备",
     "gui.connectModal.connect": "连接",
     "gui.connectModal.connecting": "连接中...",
-    "gui.connectModal.disconnect": "断开连接",
+    "gui.connectModal.disconnect": "断开",
     "gui.connectModal.disconnected": "已断开连接",
     "gui.connectModal.connected": "已连接",
     "gui.connectModal.disconnecting": "断开中...",
@@ -24669,7 +24671,9 @@ export default {
     "gui.toast.error.201": "执行成功",
     "gui.toast.error.003": "执行失败",
     "gui.extension.espMore.description": "更多ESP模块…",
-    "gui.extension.espMore.name": "更多ESP"
+    "gui.extension.espMore.name": "更多ESP",
+    "gui.serial.autoScroll": "自动滚动",
+    "gui.serial.PleaseSelect": "请选择"
   },
   "zh-tw": {
     "gui.alerts.tryAgain": "再試一次",

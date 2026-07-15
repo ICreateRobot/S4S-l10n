@@ -1954,5 +1954,7 @@
   "UIEditor.switchStateMenu.on",
   "UIEditor.switchStateMenu.off",
   "gui.extension.espMore.description",
-  "gui.extension.espMore.name"
+  "gui.extension.espMore.name",
+  "gui.serial.autoScroll",
+  "gui.serial.PleaseSelect"
 ]

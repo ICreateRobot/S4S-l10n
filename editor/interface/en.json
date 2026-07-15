@@ -554,7 +554,7 @@
     "download":"download",
     "control":"control",
     "monitor":"monitor",
-    "sendMonitior":"send",
+    "sendMonitior":"Send",
     "clearMonitior":"clear",
     "gui.enter":"enter",
     "gui.importFile":"import",
@@ -754,6 +754,9 @@
 
     
     "gui.extension.espMore.description":"More ESP modules…",
-    "gui.extension.espMore.name":"ESP More"
+    "gui.extension.espMore.name":"ESP More",
+
+    "gui.serial.autoScroll":"Auto Scroll",
+    "gui.serial.PleaseSelect":"Select"
     
 }
