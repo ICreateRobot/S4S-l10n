@@ -6043,7 +6043,9 @@ export default {
     "gui.extension.espMore.name": "ESP More",
     "gui.serial.autoScroll": "Auto Scroll",
     "gui.serial.PleaseSelect": "Select",
-    "gui.esp32.project": "Project"
+    "gui.esp32.project": "Project",
+    "loadProject.uiEditorFailed": "Failed to load UI editor project. The project may be corrupted.",
+    "loadProject.iotFailed": "Failed to load IoT project. The project may be corrupted."
   },
   "es": {
     "gui.alerts.tryAgain": "Vuelve a intentarlo",
@@ -24675,7 +24677,9 @@ export default {
     "gui.extension.espMore.name": "更多ESP",
     "gui.serial.autoScroll": "自动滚动",
     "gui.serial.PleaseSelect": "请选择",
-    "gui.esp32.project": "项目"
+    "gui.esp32.project": "项目",
+    "loadProject.uiEditorFailed": "ui编辑器项目加载失败，此项目可能已损坏",
+    "loadProject.iotFailed": "iot项目加载失败，此项目可能已经损坏"
   },
   "zh-tw": {
     "gui.alerts.tryAgain": "再試一次",

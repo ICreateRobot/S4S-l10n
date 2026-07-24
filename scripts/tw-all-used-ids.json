@@ -2006,5 +2006,7 @@
   "Esp32S4SMore.sendSpi",
   "Esp32S4SMore.sendReciveSpi",
   "Esp32S4SMore.readBytesSpi",
-  "Esp32S4SMore.readIntoSpi"
+  "Esp32S4SMore.readIntoSpi",
+  "loadProject.uiEditorFailed",
+  "loadProject.iotFailed"
 ]

@@ -758,6 +758,8 @@
 
     "gui.serial.autoScroll":"Auto Scroll",
     "gui.serial.PleaseSelect":"Select",
-    "gui.esp32.project":"Project"
+    "gui.esp32.project":"Project",
+    "loadProject.uiEditorFailed":"Failed to load UI editor project. The project may be corrupted.",
+    "loadProject.iotFailed":"Failed to load IoT project. The project may be corrupted."
     
 }
