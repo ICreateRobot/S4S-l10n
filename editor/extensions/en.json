@@ -1212,5 +1212,11 @@
     "Esp32S4SMore.sendSpi": "send data [VAR] through [SPI]",
     "Esp32S4SMore.sendReciveSpi": "send [VAR1] and receive into [VAR2] through [SPI]",
     "Esp32S4SMore.readBytesSpi": "read [NUM] bytes from [SPI]",
-    "Esp32S4SMore.readIntoSpi": "read from [SPI] into [VAR]"
+    "Esp32S4SMore.readIntoSpi": "read from [SPI] into [VAR]",
+    "Esp32S4S.magnetStrength": "Magnetic force [CHOICE] [TYPE]",
+    "Esp32S4S.acceleration": "[TYPE] [CHOICE]",
+    "Esp32S4S.type_MagnetStrength.raw": "Raw Value",
+    "Esp32S4S.type_MagnetStrength.gauss": "Gauss",
+    "Esp32S4S.type_acceleration.Acceleration": "Acceleration",
+    "Esp32S4S.type_acceleration.Angular": "Angular velocity"
 }

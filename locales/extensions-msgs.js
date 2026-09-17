@@ -5022,7 +5022,13 @@ export default {
     "Esp32S4SMore.sendSpi": "send data [VAR] through [SPI]",
     "Esp32S4SMore.sendReciveSpi": "send [VAR1] and receive into [VAR2] through [SPI]",
     "Esp32S4SMore.readBytesSpi": "read [NUM] bytes from [SPI]",
-    "Esp32S4SMore.readIntoSpi": "read from [SPI] into [VAR]"
+    "Esp32S4SMore.readIntoSpi": "read from [SPI] into [VAR]",
+    "Esp32S4S.magnetStrength": "Magnetic force [CHOICE] [TYPE]",
+    "Esp32S4S.acceleration": "[TYPE] [CHOICE]",
+    "Esp32S4S.type_MagnetStrength.raw": "Raw Value",
+    "Esp32S4S.type_MagnetStrength.gauss": "Gauss",
+    "Esp32S4S.type_acceleration.Acceleration": "Acceleration",
+    "Esp32S4S.type_acceleration.Angular": "Angular velocity"
   },
   "es": {
     "boost.color.any": "de cualquier color",
@@ -18861,7 +18867,13 @@ export default {
     "Esp32S4SMore.sendSpi": "通过 [SPI] 发送数据 [VAR]",
     "Esp32S4SMore.sendReciveSpi": "通过 [SPI] 发送 [VAR1] 并接收至 [VAR2]",
     "Esp32S4SMore.readBytesSpi": "从 [SPI] 读取 [NUM] 字节",
-    "Esp32S4SMore.readIntoSpi": "从 [SPI] 读取到变量 [VAR]"
+    "Esp32S4SMore.readIntoSpi": "从 [SPI] 读取到变量 [VAR]",
+    "Esp32S4S.magnetStrength": "磁力 [CHOICE] [TYPE]",
+    "Esp32S4S.acceleration": "[TYPE] [CHOICE]",
+    "Esp32S4S.type_MagnetStrength.raw": "原始值",
+    "Esp32S4S.type_MagnetStrength.gauss": "高斯",
+    "Esp32S4S.type_acceleration.Acceleration": "加速度",
+    "Esp32S4S.type_acceleration.Angular": "角速度"
   },
   "zh-tw": {
     "boost.color.any": "任何顏色",

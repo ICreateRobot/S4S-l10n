@@ -2008,5 +2008,11 @@
   "Esp32S4SMore.readBytesSpi",
   "Esp32S4SMore.readIntoSpi",
   "loadProject.uiEditorFailed",
-  "loadProject.iotFailed"
+  "loadProject.iotFailed",
+  "Esp32S4S.magnetStrength",
+  "Esp32S4S.acceleration",
+  "Esp32S4S.type_MagnetStrength.raw",
+  "Esp32S4S.type_MagnetStrength.gauss",
+  "Esp32S4S.type_acceleration.Acceleration",
+  "Esp32S4S.type_acceleration.Angular"
 ]
