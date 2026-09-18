@@ -976,7 +976,7 @@
     "ArduinoS4S.ICA_S4S_setPwm": "set pwm pin [PIN] output as [NUM]",
     "ArduinoS4S.ICA_S4S_readDigitalPin": "read status of digital pin [PIN]",
     "ArduinoS4S.ICA_S4S_readAnalogPin": "read analog pin [PIN]",
-    "ArduinoS4S.ICA_S4S_setInputPull": "set pin [PIN] to input pull [CHOICE]",
+    "ArduinoS4S.ICA_S4S_setInputPull": "set pin [PIN] to [CHOICE]",
     "ArduinoS4S.ICA_S4S_readPulse": "read pulse pin [CHOICE] [LEVEL] timeout [NUM]",
     "ArduinoS4S.Timer": "Timer",
     "ArduinoS4S.ICA_S4S_getTimer": "get timer value",
