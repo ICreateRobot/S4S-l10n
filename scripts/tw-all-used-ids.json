@@ -2014,5 +2014,12 @@
   "Esp32S4S.type_MagnetStrength.raw",
   "Esp32S4S.type_MagnetStrength.gauss",
   "Esp32S4S.type_acceleration.Acceleration",
-  "Esp32S4S.type_acceleration.Angular"
+  "Esp32S4S.type_acceleration.Angular",
+  "LinkBotActuators.name",
+  "LinkBotSensors.name",
+  "LinkBotPower.name",
+  "MicrobitIcreate.display",
+  "MicrobitIcreate.labelSpeaker",
+  "MicrobitIcreate.labelPins",
+  "MicrobitIcreate.labelRadio"
 ]

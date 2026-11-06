@@ -1218,5 +1218,8 @@
     "Esp32S4S.type_MagnetStrength.raw": "Raw Value",
     "Esp32S4S.type_MagnetStrength.gauss": "Gauss",
     "Esp32S4S.type_acceleration.Acceleration": "Acceleration",
-    "Esp32S4S.type_acceleration.Angular": "Angular velocity"
+    "Esp32S4S.type_acceleration.Angular": "Angular velocity",
+    "LinkBotActuators.name":"Actuators",
+    "LinkBotSensors.name":"Sensors",
+    "LinkBotPower.name":"Power"
 }

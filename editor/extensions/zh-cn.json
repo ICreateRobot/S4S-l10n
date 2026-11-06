@@ -872,7 +872,7 @@
     "LinkBot.ICM_S4S_MovStop": "停止移动",
     "LinkBot.ICM_S4S_MovSetPowAll": "设置移动速度为 [NUM] ",
     "LinkBot.ICM_S4S_MovSetPow": "以 [P1] [P2] 速度移动",
-    "LinkBot.Atmosphere": "LEDS",
+    "LinkBot.Atmosphere": "氛围灯",
     "LinkBot.Line": "巡线传感器",
     "LinkBot.Ultrasonic": "超声波",
     "LinkBot.ICM_S4S_ultrGetLog": "距离值  [CHOICE] [NUM] [TYPE]",
@@ -1212,6 +1212,13 @@
     "Esp32S4S.type_MagnetStrength.raw": "原始值",
     "Esp32S4S.type_MagnetStrength.gauss": "高斯",
     "Esp32S4S.type_acceleration.Acceleration": "加速度",
-    "Esp32S4S.type_acceleration.Angular": "角速度"
+    "Esp32S4S.type_acceleration.Angular": "角速度",
+    "MicrobitIcreate.display":"显示",
+    "MicrobitIcreate.labelSpeaker":"扬声器",
+    "MicrobitIcreate.labelPins":"引脚",
+    "MicrobitIcreate.labelRadio": "无线电",
+    "LinkBotSensors.name":"传感器",
+    "LinkBotPower.name":"电量",
+    "LinkBotActuators.name":"执行器"
 
 }
